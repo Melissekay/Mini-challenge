@@ -1,0 +1,42 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-size: 16px;
+  line-height: 1.7;
+  color: #c2640c;
+  justify-content: center;
+}
+h1 {
+  font-size: 2.5rem;
+  text-align: center;
+  margin-top: 20px;
+}
+img {
+  width: 600px;
+  height: 100px;
+  object-fit: cover;
+  display: block;
+  margin: 0 auto;
+}
+
+.columns {
+  display: flex;
+  align-items: flex-start;
+  max-width: 50px;
+
+
+}
+
+.container {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.child {
+    background-color: rgb(226, 11, 11);
+    padding: 10px;
+    margin: 10px;
+}
