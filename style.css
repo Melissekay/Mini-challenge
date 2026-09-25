@@ -46,7 +46,7 @@ img {
   padding: 10px;
   margin: 10px;
   line-height: 1.5;
-  width: 30%;
+  width: 28%;
 }
 
 .container2 {
@@ -56,11 +56,10 @@ img {
 
 .childtwo {
   background-color: rgb(17, 1, 1);
-  /* padding: 10px;
-  margin: 10px; */
+  padding: 10px;
+  margin: 10px; 
   line-height: 1.5;
-  width: 60%;
- 
+  width: 40px
   align-items: start;
   flex: 1;
 }
